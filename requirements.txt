@@ -1,0 +1,7 @@
+streamlit==1.32.0
+mysql-connector-python==8.0.33
+pandas==2.2.0
+google-api-python-client==2.97.0
+protobuf==4.21.12
+python-dotenv==1.0.0
+DateTime==5.4
